@@ -1,7 +1,77 @@
 header{
     background-image:url("../img/pattern.png");
     background-color: cornflowerblue;
+    background-size: contain;
 }
 .logo{
    width: 200px; 
+   padding-top: 35px;
+}
+#booleaner{
+    color: aqua;
+}
+.t{
+    color: darkgrey;
+}
+#data{
+    font-size: small;
+}
+.testopiccolo{
+    font-size: small;
+}
+.minitesto{
+    color: darkgray;
+    margin-top: 0px;
+}
+#p1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#p2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: darkgrey;
+}
+.sottolineato{
+    background-color: yellow;
+}
+.th1{
+    width: 25%;
+    text-align: left;
+    color: white;
+}
+.th2{
+    width: 25%;
+    text-align: left;
+    color: white;
+}
+.th3{
+    width: 49%;
+    text-align: left;
+    color: white;
+}
+thead{
+    background-color:rgb(40, 160, 200);
+}
+tbody{
+    background-color:lightblue;
+}
+.bianco{
+    background-color: white;
+}
+h4{
+    color: gray;
+}
+.graph{
+    background-image: url(/img/graph.jpg);
+    background-repeat: no-repeat;
+}
+.monitor{
+    background-image: url(/img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+h3{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 180px;
 }
